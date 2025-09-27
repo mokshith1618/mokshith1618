@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on a ML project with binary classification.
-- 🌱 I’m currently learning SpringBoot.
+- 🔭 Working on a ML project with binary classification.
+- 🌱 Currently learning SpringBoot.
 - 📫 [LinkedIn](https://www.linkedin.com/in/mokshithsaigadela/)
 
