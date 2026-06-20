@@ -1,5 +1,5 @@
 ## Hi there 👋
 
-- 🔭 Working on a Django project.
-- 🌱 Currently learning Gen AI.
-
+- 🔭 Working on Cloud Infrastructure.
+- 🌱 Currently learning AI Engineering.
+- 😄 [MokshithSaiGadela.com](mokshtihsaigadela.com)
